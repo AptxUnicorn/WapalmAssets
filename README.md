@@ -1,2 +1,2 @@
 # WapalmAssets
-Assets for use in Wapalm App
+Assets for Wapalm (updates)
